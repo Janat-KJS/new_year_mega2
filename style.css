@@ -23,7 +23,7 @@ body{
 }
 
 .item1{
-	background: url(../Img/Group2.svg);
+	background: url(./Images/Group2.svg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	height: 1567px;
@@ -35,7 +35,7 @@ body{
 }
 
 .item2 {
-	background: url(../Img/Group1.svg);
+	background: url(./Images/Group1.svg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	height: 146px;
@@ -76,7 +76,7 @@ body{
 }
 
 .item5{
-	background: url(../Img/Group3.svg);
+	background: url(./Images/Group3.svg);
 	background-repeat: no-repeat;
 	height: 534px;
 	width: 98px;
@@ -94,7 +94,7 @@ body{
 .item6{
 	height: 17px;
 	width: 71px;
-	background: url(../Img/Group4.svg);
+	background: url(./Images/Group4.svg);
 	background-repeat: no-repeat;
 	margin: 0 auto;
 	display: flex;
@@ -109,7 +109,7 @@ body{
 }
 
 .item7{
-	background: url(../Img/Group5.svg);
+	background: url(./Images/Group5.svg);
 	background-repeat: no-repeat;
 	height: 213px;
 	width: 40px;
@@ -120,7 +120,7 @@ body{
 }
 
 .item8{
-	background: url(../Img/Group6.svg);
+	background: url(./Images/Group6.svg);
 	background-repeat: no-repeat;
 	height: 1000px;
 	width: 59px;
